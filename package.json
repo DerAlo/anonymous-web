@@ -10,7 +10,7 @@
     "dev": "preact watch",
     "test": "eslint src && preact test"
   },
-  "author": "gokulkrishh",
+  "author": "DerAlo",
   "license": "MIT",
   "eslintConfig": {
     "extends": "eslint-config-synacor"
