@@ -23,17 +23,17 @@ export default class Intro extends Component {
           </div>
 
           <div className="intro__screen-social">
-            <a href="https://twitter.com/intent/tweet?text=A%20preact%20powered%20progressive%20web%20(chat)%20application%20https%3A%2F%2Fanonymouschat.in%20%23pwa%20%23preact%20via%20%40gokul_i" target="_blank" rel="noopener" aria-label="Share on Twitter">
-              <img alt="twitter" src={twitter} />
+            <a href="https://www.facebook.com/DerAlo" target="_blank" rel="noopener" aria-label="Share on facebook">
+              <img alt="twitter" src={facebook} />
             </a>
-            <a href="https://github.com/gokulkrishh/anonymous-web" target="_blank" rel="noopener">
+            <a href="https://github.com/DerAlo/anonymous-web" target="_blank" rel="noopener">
               <img className="github-logo" alt="github" src={github} />
             </a>
           </div>
         </div>
 
         <div className="intro__screen-footer">
-          <p>Built with <span>♥</span> by Gokul</p>
+          <p>Built with <span>♥</span> by Alo</p>
         </div>
       </div>
     );

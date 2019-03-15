@@ -4,11 +4,12 @@ import Home from './components/home';
 import firebase from 'firebase/app';
 
 const testEnv = {
-  "apiKey": "AIzaSyB3X0VnbRACigiD1G1VcO0F8GFImzFIzdc",
-  "authDomain": "test-anonymous-bcba0.firebaseapp.com",
-  "databaseURL": "https://test-anonymous-bcba0.firebaseio.com",
-  "projectId": "test-anonymous-bcba0",
-  "storageBucket": ""
+  apiKey: "AIzaSyBF68tgHAcIgQ9nR0K66PsGIO1CbkFW_wE",
+  authDomain: "chat-acbfc.firebaseapp.com",
+  databaseURL: "https://chat-acbfc.firebaseio.com",
+  projectId: "chat-acbfc",
+  storageBucket: "chat-acbfc.appspot.com",
+  messagingSenderId: "87406616944"
 };
 
 firebase.initializeApp(testEnv);
