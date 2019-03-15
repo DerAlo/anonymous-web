@@ -1,10 +1,8 @@
-### <img src="https://raw.githubusercontent.com/gokulkrishh/anonymous-web/preact/assets/icons/android-chrome-512x512.png" width="180px" />
 
-# [Anonymous Chat](https://anonymouschat.in)
 
 *A PreactJS powered progressive web (chat) application using Firebase Realtime Database.*
 
-### [Live](https://anonymouschat.in)
+
 
 ## Features
 
@@ -58,9 +56,3 @@ After running `npm run build`, use below command to deploy in gh-pages
 ````sh
 npm run deploy
 ````
-
-### Contributions & Feature Request
-
-If you find a bug or nice to have feature, please feel free to create an issue and PR is most welcome :)
-
-#### MIT Licensed

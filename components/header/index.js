@@ -31,7 +31,7 @@ export default class Header extends Component {
       <header>
         <img src={logo} className="header__logo" alt="logo"/>
         <div className="header__content">
-          <span className="header__title">Anonymous Chat</span>
+          <span className="header__title">Alo's Anonymous Chat</span>
           <span className="header__status">{status}</span>
         </div>
 
