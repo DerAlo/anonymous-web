@@ -41,7 +41,7 @@ export default class Home extends Component {
     this.firebaseConnection = this.firebaseDB.ref(".info/connected");
     this.firebaseConnection.on("value", (snap) => {
       if (snap.val() === true) {
-        console.log("Came ---->");
+        console.log("Alles subba ---->");
         if (this.currentChat) {
           this.currentChat.onDisconnect().remove();
         }

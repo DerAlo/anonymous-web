@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "chat": "chat-acbfc",
+    "default": "chat-acbfc",
+    "riedhammer-chat": "riedhammer-chat"
+  }
+}

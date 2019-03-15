@@ -4,12 +4,12 @@ import Home from './components/home';
 import firebase from 'firebase/app';
 
 const testEnv = {
-  apiKey: "AIzaSyBF68tgHAcIgQ9nR0K66PsGIO1CbkFW_wE",
-  authDomain: "chat-acbfc.firebaseapp.com",
-  databaseURL: "https://chat-acbfc.firebaseio.com",
-  projectId: "chat-acbfc",
-  storageBucket: "chat-acbfc.appspot.com",
-  messagingSenderId: "87406616944"
+  apiKey: "AIzaSyDDytMC1XESore84qY2uvSWN3qtYdGZH14",
+  authDomain: "riedhammer-chat.firebaseapp.com",
+  databaseURL: "https://riedhammer-chat.firebaseio.com",
+  projectId: "riedhammer-chat",
+  storageBucket: "riedhammer-chat.appspot.com",
+  messagingSenderId: "180640408425"
 };
 
 firebase.initializeApp(testEnv);
