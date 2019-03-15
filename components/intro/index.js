@@ -18,17 +18,14 @@ export default class Intro extends Component {
         <div className="intro__screen-container">
           <div className="intro__screen-logo">
             <img alt="logo" src={logo}/>
-            <h2 className="custom-title">Anonymous Chat</h2>
-            <p>Chat with strangers randomly.</p>
+            <h2 className="custom-title">Alo's Anonymous Chat</h2>
+            <p>Kampf den Palästen!</p>
           </div>
 
           <div className="intro__screen-social">
             <a href="https://www.facebook.com/DerAlo" target="_blank" rel="noopener" aria-label="Share on facebook">
               <img alt="twitter" src={facebook} />
-            </a>
-            <a href="https://github.com/DerAlo/anonymous-web" target="_blank" rel="noopener">
-              <img className="github-logo" alt="github" src={github} />
-            </a>
+            </a>     
           </div>
         </div>
 
